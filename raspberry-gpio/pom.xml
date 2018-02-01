@@ -11,5 +11,11 @@
 
     <artifactId>raspberry-gpio</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.pi4j</groupId>
+            <artifactId>pi4j-core</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>

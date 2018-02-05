@@ -25,6 +25,10 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
+        <dependency>
+            <groupId>lt.pi</groupId>
+            <artifactId>raspberry-gpio</artifactId>
+        </dependency>
     </dependencies>
 
 </project>

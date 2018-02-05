@@ -32,7 +32,18 @@
                 <artifactId>pi4j-core</artifactId>
                 <version>${pi4j.version}</version>
             </dependency>
+            <dependency>
+                <groupId>lt.pi</groupId>
+                <artifactId>raspberry-web</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>lt.pi</groupId>
+                <artifactId>raspberry-gpio</artifactId>
+                <version>${project.version}</version>
+            </dependency>
         </dependencies>
+
     </dependencyManagement>
 
     <repositories>
